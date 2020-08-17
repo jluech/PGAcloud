@@ -1,0 +1,27 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/jluech/PGAcloud_Client.git
+[submodule "Manager"]
+	path = Manager
+	url = https://github.com/jluech/PGAcloud_Manager.git
+[submodule "Runner"]
+	path = Runner
+	url = https://github.com/jluech/PGAcloud_Runner.git
+[submodule "Initializer"]
+	path = Initializer
+	url = https://github.com/jluech/PGAcloud_Initializer.git
+[submodule "Selection"]
+	path = Selection
+	url = https://github.com/jluech/PGAcloud_Selection.git
+[submodule "Crossover"]
+	path = Crossover
+	url = https://github.com/jluech/PGAcloud_Crossover.git
+[submodule "Mutation"]
+	path = Mutation
+	url = https://github.com/jluech/PGAcloud_Mutation.git
+[submodule "Fitness"]
+	path = Fitness
+	url = https://github.com/jluech/PGAcloud_Fitness.git
+[submodule "Agent"]
+	path = Agent
+	url = https://github.com/jluech/PGAcloud_Agent.git
